@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.inputs {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.measures {
+    background: #1F2937;
+    padding: 10px;
+}
+
+.section {
+    background: #273549;
+    padding: 5px;
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    color: #CCC1FF;
+}
+
+button {
+    background-color: white;
+    border: none;
+    border-radius: 2px;
+    color: #3D3D3D;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+input {
+    border-radius: 4px;
+    background-color: #6943fe;
+    font-weight: bold;
+    width: 75px;
+    text-align: center;
+    padding: 20px;
+    border:solid #B295FF;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+}
